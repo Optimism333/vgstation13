@@ -98,7 +98,7 @@
 "gn" = (/obj/structure/bed/chair,/obj/effect/decal/cleanable/blood{basecolor = "#CFAAAA"; blood_color = "#CFAAAA"},/turf/simulated/floor{dir = 9; icon_state = "darkpurple"; tag = "icon-darkpurple (WEST)"},/area/vault/mothership_lab/habitation)
 "gp" = (/obj/machinery/computer/arcade,/turf/simulated/floor/plating,/area/vault/mothership_lab/cave)
 "gq" = (/obj/structure/table/woodentable,/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/food/snacks/voxstew,/obj/item/weapon/reagent_containers/food/snacks/voxstew,/obj/item/weapon/reagent_containers/food/snacks/voxstew,/turf/simulated/floor/asteroid/air,/area/vault/mothership_lab/raidtunnel_lower)
-"gx" = (/obj/machinery/door/airlock/external{locked = 1; name = "Lab External Airlock"; req_access_txt = "161"; req_one_access_txt = "161"},/turf/simulated/floor/plating,/area/vault/mothership_lab/cave)
+"gx" = (/obj/machinery/door/airlock/external{name = "Lab External Airlock"; req_access_txt = "161"; req_one_access_txt = "161"},/turf/simulated/floor/plating,/area/vault/mothership_lab/cave)
 "gy" = (/turf/simulated/floor{icon_state = "white"; tag = "icon-white"},/area/vault/mothership_lab/administration)
 "gz" = (/obj/item/device/flashlight/flare/ever_bright,/turf/simulated/floor/asteroid/air,/area/vault/mothership_lab/raidtunnel_lower)
 "gA" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood/drip{basecolor = "#2299FC"; blood_color = "#2299FC"},/turf/simulated/floor/plating,/area/vault/mothership_lab/habitation)
